@@ -16,15 +16,9 @@ CarConfigurations = {
 	}, 
 }
 GlobalConfiguration = { -- Default is 1-9 on the keyboard... you can delete whatever extras you dont want or add whatever you want. Format: [Exta #] = control value https://docs.fivem.net/docs/game-references/controls/
-    [1] = 157,
-    [2] = 158,
-    [3] = 160,
-    [4] = 164,
-    [5] = 165,
-    [6] = 159,
-    [7] = 161,
-    [8] = 162,
-    [9] = 163,
+    
+    [4] = 103,
+   
     ["soundName"] = 'soundfx'
 }
 
